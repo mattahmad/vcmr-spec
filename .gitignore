@@ -1,0 +1,17 @@
+# System Artifacts
+.DS_Store
+Thumbs.db
+
+# Local Editor / IDE Caches
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Backup & Temporary Files
+*.bak
+*.tmp
+*~
